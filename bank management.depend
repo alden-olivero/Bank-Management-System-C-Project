@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674713503 source:c:\users\lenovo\desktop\c++\bank management\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
